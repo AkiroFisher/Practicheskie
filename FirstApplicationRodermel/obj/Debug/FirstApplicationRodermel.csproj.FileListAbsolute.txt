@@ -85,3 +85,5 @@ C:\Users\roder\OneDrive\Рабочий стол\FirstApplicationRodermel\obj\Deb
 C:\Users\roder\OneDrive\Рабочий стол\FirstApplicationRodermel\obj\Debug\FirstApplicationRodermel.csproj.CoreCompileInputs.cache
 C:\Users\roder\OneDrive\Рабочий стол\FirstApplicationRodermel\obj\Debug\Pages\PagePR3.g.cs
 C:\Users\roder\OneDrive\Рабочий стол\FirstApplicationRodermel\obj\Debug\Pages\PagePR3.baml
+C:\Users\roder\OneDrive\Рабочий стол\FirstApplicationRodermel\obj\Debug\Pages\PagePR7.g.cs
+C:\Users\roder\OneDrive\Рабочий стол\FirstApplicationRodermel\obj\Debug\Pages\PagePR7.baml

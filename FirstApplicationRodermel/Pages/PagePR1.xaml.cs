@@ -52,5 +52,10 @@ namespace FirstApplicationRodermel.Pages
         {
             Classes.ClassFrame.frmObj.Navigate(new Pages.PagePR3());
         }
+
+        private void BtnNextPR7_Click(object sender, RoutedEventArgs e)
+        {
+            Classes.ClassFrame.frmObj.Navigate(new Pages.PagePR7());
+        }
     }
 }

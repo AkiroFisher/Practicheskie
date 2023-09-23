@@ -64,7 +64,8 @@
                 Content="Выполнить"
                 Click="BtnSolve_Click"
                 Background="MediumOrchid"/>
-        <StackPanel Orientation="Horizontal">
+        <StackPanel Orientation="Horizontal"
+                    HorizontalAlignment="Center">
         <Button Name="BtnNextPR2"
                 Style="{StaticResource Btn2Style}"
                 Content="Практическая №2"
@@ -75,10 +76,15 @@
                 Content="Практическа №3"
                 Click="BtnNextPR3_Click"
                 Margin="5"/>
-            <Button Name="BtnNextPR6"
+        <Button Name="BtnNextPR6"
                 Style="{StaticResource Btn2Style}"
                 Content="Практическа №6"
                 Click="BtnNextPR6_Click"
+                Margin="5"/>
+        <Button Name="BtnNextPR7"
+                Style="{StaticResource Btn2Style}"
+                Content="Практическа №7"
+                Click="BtnNextPR7_Click"
                 Margin="5"/>
         </StackPanel>
     </Grid>
